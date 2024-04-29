@@ -18,10 +18,10 @@ h1 {
 #manage_section {
     position: relative;
     float:right;
-    top: 0px;
     width:30%;
     padding:10px;
-    background:#115a70; 
+    margin-top: 2px;
+    background:#0f2672; 
     height:100%;
 }
 
@@ -31,6 +31,7 @@ h2 {
 }
 
 #content { 
+    position: relative;
     float:left;
     width:60%;
     padding:0 0 0 30px; 
